@@ -2,11 +2,11 @@
 
 This document lists all merged PRs with details: author, title, description (max 10 words), files changed, labels, who merged, merge timestamp, number of lines updated, number of commits, and PR link.
 
-*Last updated: 2025-09-30*
+*Last updated: 2025-10-01*
 
 | # | Title | Author | Description | Files Changed | Labels | Merged By | Merged At | Lines Updated | Commits | PR Link |
 |---|-------|--------|-------------|--------------|--------|-----------|-----------|--------------|---------|---------|
-| [#459](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/459) |  New feature for tracking academic assignments and deadlines | [@rudrasingh993](https://github.com/rudrasingh993) | ✨ Features Added: Assignment Tracker: New feature for tracking academic ... | 73 | gssoc25, feature, level 2 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-09-27 | 14910 | 16 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/459) |
+| [#459](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/459) |  New feature for tracking academic assignments and deadlines | [@rudrasingh993](https://github.com/rudrasingh993) | ✨ Features Added: Assignment Tracker: New feature for tracking academic ... | 73 | gssoc25, feature, level 3 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-09-27 | 14910 | 16 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/459) |
 | [#458](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/458) | Added login signup option and Anylatic Dashboard | [@rudrasingh993](https://github.com/rudrasingh993) | 🧑‍💻 What changes were made? Dashboard Page: Added modern glassmorphism ... | 69 | gssoc25, backend, level 2 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-09-27 | 12118 | 15 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/458) |
 | [#451](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/451) | Enhance pwa manifest and favicon system | [@rudrasingh993](https://github.com/rudrasingh993) | # 🎨 Enhanced PWA Manifest and Comprehensive Favicon System ## ... | 72 | bug, gssoc25, level 2 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-09-22 | 2840 | 5 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/451) |
 | [#455](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/455) | Fix minor chanhes and seamless dark mode transition  | [@rudrasingh993](https://github.com/rudrasingh993) | ## 🌙 Enhanced Dark Mode with Smooth Transitions ### Summary ... | 19 | enhancement, gssoc25, level 2 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-09-22 | 895 | 3 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/455) |
@@ -43,7 +43,7 @@ This document lists all merged PRs with details: author, title, description (max
 | [#286](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/286) | fix: corrected card alignment and improved Dark Mode text visibility | [@himanshitwri08](https://github.com/himanshitwri08) |  **📄Description**: This PR improves the overall readability and alignment ... | 2 | bug, gssoc25, level 1 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-22 | 155 | 1 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/286) |
 | [#292](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/292) | changed ui of subject.html and add new features to it | [@vaishaligoyal05](https://github.com/vaishaligoyal05) | ## 🔖 PR Title: <!-- A clear and concise title ... | 3 | gssoc25, feature, level 3 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-23 | 3133 | 1 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/292) |
 | [#285](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/285) | Issue new | [@Gupta-02](https://github.com/Gupta-02) | ## 🔖 PR Title: <!-- A clear and concise title ... | 160 | gssoc25, feature, level 3 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-22 | 6206 | 328 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/285) |
-| [#290](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/290) | Fix BUG [Nav section] | [@Anusha271815](https://github.com/Anusha271815) | ##Issue no. : 251 ## 🔖 PR Title: Navbar Toggler ... | 2 | bug, gssoc25, level 1 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-23 | 38 | 2 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/290) |
+| [#290](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/290) | Fix BUG [Nav section] | [@Anusha271815](https://github.com/Anusha271815) | ##Issue no. : 251 ## ��� PR Title: Navbar Toggler ... | 2 | bug, gssoc25, level 1 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-23 | 38 | 2 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/290) |
 | [#277](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/277) | Remove node_modules, update .gitignore & contributor guide #260 | [@rashmibarodiya](https://github.com/rashmibarodiya) |  @VAIBHAVBABELE ## 🔖 PR Title: Remove node_modules, update .gitignore ... | 1616 | gssoc25, level 1 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-18 | 241387 | 3 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/277) |
 | [#270](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/270) | Added placement page | [@mavishsethi](https://github.com/mavishsethi) | ## 🔖 PR Title: I have added placement cell updates ... | 3 | gssoc25, feature, level 3 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-17 | 745 | 1 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/270) |
 | [#276](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/276) | added external js and css | [@mavishsethi](https://github.com/mavishsethi) | ## 🔖 PR Title: added extrenal css and js files ... | 3 |  | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-18 | 1188 | 2 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/276) |
@@ -210,7 +210,7 @@ This document lists all merged PRs with details: author, title, description (max
   - `pages/test.html`
   - `pages/user-experience-table.html`
   - `pages/version-control-tips.html`
-- **Labels:** `gssoc25`, `feature`, `level 2`
+- **Labels:** `gssoc25`, `feature`, `level 3`
 - **Merged By:** [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE)
 - **Merged At:** 2025-09-27 12:52:57
 - **Lines Updated:** 14910
@@ -1478,7 +1478,7 @@ Reverts VAIBHAVBABELE/vaibhavbabele.github.io#321
 
 - **Author:** [@Anusha271815](https://github.com/Anusha271815)
 - **Description:**  
-##Issue no. : 251 ## 🔖 PR Title: Navbar Toggler ...
+##Issue no. : 251 ## ��� PR Title: Navbar Toggler ...
 - **Files Changed (2):**
     - `index.css`
   - `index.js`
