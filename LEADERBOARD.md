@@ -1,14 +1,14 @@
 # 🏆 Contributors Leaderboard
 
-*Last updated: 2025-10-05*
+*Last updated: 2025-10-06*
 
 ## 🌸 GSSoC '25 Leaderboard
 
 | Username | Email | Level 1 | Level 2 | Level 3 | PRs Merged | Total Points |
 |----------|-------|---------|---------|---------|------------|--------------|
 | [@shoaib2000857](https://github.com/shoaib2000857) | 24f2000857@ds.study.iitm.ac.in | 1 | 3 | 4 | 8 | 64 |
+| [@rudrasingh993](https://github.com/rudrasingh993) | rudrasingh14513@gmail.com | 0 | 4 | 2 | 6 | 48 |
 | [@vaishaligoyal05](https://github.com/vaishaligoyal05) | vishug654@gmail.com | 0 | 1 | 4 | 5 | 47 |
-| [@rudrasingh993](https://github.com/rudrasingh993) | rudrasingh14513@gmail.com | 0 | 4 | 1 | 5 | 38 |
 | [@Nikita-Mishraa](https://github.com/Nikita-Mishraa) | nikita.mishra.pri@gmail.com | 3 | 3 | 0 | 6 | 30 |
 | [@thilak-r](https://github.com/thilak-r) | thilak22005@gmail.com | 0 | 0 | 3 | 3 | 30 |
 | [@Shailee6464](https://github.com/Shailee6464) | - | 0 | 4 | 0 | 4 | 28 |
@@ -21,6 +21,7 @@
 | [@DivyaJain-DataAnalyst](https://github.com/DivyaJain-DataAnalyst) | - | 1 | 1 | 0 | 2 | 10 |
 | [@kunnal-singhh](https://github.com/kunnal-singhh) | - | 1 | 1 | 0 | 2 | 10 |
 | [@PrathmeshTatar](https://github.com/PrathmeshTatar) | prathmeshtatar05@gmail.com | 0 | 0 | 1 | 1 | 10 |
+| [@ciphervaishnavi](https://github.com/ciphervaishnavi) | - | 0 | 1 | 0 | 1 | 7 |
 | [@cin-sameer](https://github.com/cin-sameer) | s.rathorework@gmail.com | 0 | 1 | 0 | 1 | 7 |
 | [@RohitSalv](https://github.com/RohitSalv) | - | 0 | 1 | 0 | 1 | 7 |
 | [@Sushilnautiyal07](https://github.com/Sushilnautiyal07) | nautiyals927@gmail.com | 0 | 1 | 0 | 1 | 7 |
