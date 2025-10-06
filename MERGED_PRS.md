@@ -2,10 +2,12 @@
 
 This document lists all merged PRs with details: author, title, description (max 10 words), files changed, labels, who merged, merge timestamp, number of lines updated, number of commits, and PR link.
 
-*Last updated: 2025-10-05*
+*Last updated: 2025-10-06*
 
 | # | Title | Author | Description | Files Changed | Labels | Merged By | Merged At | Lines Updated | Commits | PR Link |
 |---|-------|--------|-------------|--------------|--------|-----------|-----------|--------------|---------|---------|
+| [#465](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/465) | corrected fonts and added a sumarry of changes | [@ciphervaishnavi](https://github.com/ciphervaishnavi) | ## solved issue : #463 ### 1. **Inconsistent Font Families** ... | 8 | gssoc25, frontend, level 2 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-10-05 | 591 | 2 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/465) |
+| [#460](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/460) | Fixed user data will be stored separately | [@rudrasingh993](https://github.com/rudrasingh993) | Pull Request Summary: Title: Fix Firebase Index Requirements and User ... | 23 | gssoc25, feature, level 3 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-10-05 | 1103 | 23 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/460) |
 | [#459](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/459) |  New feature for tracking academic assignments and deadlines | [@rudrasingh993](https://github.com/rudrasingh993) | ✨ Features Added: Assignment Tracker: New feature for tracking academic ... | 73 | gssoc25, feature, level 3 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-09-27 | 14910 | 16 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/459) |
 | [#458](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/458) | Added login signup option and Anylatic Dashboard | [@rudrasingh993](https://github.com/rudrasingh993) | 🧑‍💻 What changes were made? Dashboard Page: Added modern glassmorphism ... | 69 | gssoc25, backend, level 2 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-09-27 | 12118 | 15 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/458) |
 | [#451](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/451) | Enhance pwa manifest and favicon system | [@rudrasingh993](https://github.com/rudrasingh993) | # 🎨 Enhanced PWA Manifest and Comprehensive Favicon System ## ... | 72 | bug, gssoc25, level 2 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-09-22 | 2840 | 5 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/451) |
@@ -49,7 +51,7 @@ This document lists all merged PRs with details: author, title, description (max
 | [#276](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/276) | added external js and css | [@mavishsethi](https://github.com/mavishsethi) | ## 🔖 PR Title: added extrenal css and js files ... | 3 |  | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-18 | 1188 | 2 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/276) |
 | [#267](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/267) | Added downloadable tech notes | [@vaishaligoyal05](https://github.com/vaishaligoyal05) | ## 🔖 PR Title: Added downloadable tech notes --- ## ... | 4 | enhancement, gssoc25, feature, level 2 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-16 | 982 | 2 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/267) |
 | [#264](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/264) | Enhanced contact page | [@Ayushii-uniyal](https://github.com/Ayushii-uniyal) | ## 🔖 PR Title: Enhanced contact page. --- ## 📄 ... | 2 | bug, gssoc25, level 1 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-16 | 227 | 2 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/264) |
-| [#253](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/253) | Added multilingual feature! | [@vaishaligoyal05](https://github.com/vaishaligoyal05) | ## 🔖 PR Title: Added multilingual feature across all the ... | 13 | gssoc25, feature, level 3 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-14 | 395 | 5 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/253) |
+| [#253](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/253) | Added multilingual feature! | [@vaishaligoyal05](https://github.com/vaishaligoyal05) | ## ���� PR Title: Added multilingual feature across all the ... | 13 | gssoc25, feature, level 3 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-14 | 395 | 5 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/253) |
 | [#259](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/259) | dont need to add points | [@DivyaJain-DataAnalyst](https://github.com/DivyaJain-DataAnalyst) | sorry div problem create kr rha tha last merge, then ... | 1 |  | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-15 | 8 | 1 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/259) |
 | [#258](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/258) | Added gssoc logo | [@DivyaJain-DataAnalyst](https://github.com/DivyaJain-DataAnalyst) | for readme gssoc logo | 1 |  | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-15 | 4 | 1 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/258) |
 | [#255](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/255) | update readme with gssoc logo | [@DivyaJain-DataAnalyst](https://github.com/DivyaJain-DataAnalyst) | ## 🔖 PR Title: <!-- A clear and concise title ... | 2 | documentation, gssoc25, level 2 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-14 | 303 | 3 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/255) |
@@ -130,6 +132,67 @@ This document lists all merged PRs with details: author, title, description (max
 ---
 
 ## 📝 Detailed Merged PRs
+
+### [#465 corrected fonts and added a sumarry of changes](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/465)
+
+- **Author:** [@ciphervaishnavi](https://github.com/ciphervaishnavi)
+- **Description:**  
+## solved issue : #463 ### 1. **Inconsistent Font Families** ...
+- **Files Changed (8):**
+    - `FONT_STYLING_FIX_SUMMARY.md`
+  - `css/typography.css`
+  - `index.css`
+  - `index.html`
+  - `pages/summary/summary.css`
+  - `pages/syllabus/syllabus.css`
+  - `pages/terms.css`
+  - `pages/terms.html`
+- **Labels:** `gssoc25`, `frontend`, `level 2`
+- **Merged By:** [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE)
+- **Merged At:** 2025-10-05 15:26:23
+- **Lines Updated:** 591
+- **Commits:** 2
+- **PR Link:** [PR #465](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/465)
+
+---
+
+### [#460 Fixed user data will be stored separately](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/460)
+
+- **Author:** [@rudrasingh993](https://github.com/rudrasingh993)
+- **Description:**  
+Pull Request Summary: Title: Fix Firebase Index Requirements and User ...
+- **Files Changed (23):**
+    - `README.md`
+  - `backend/assignment-tracker.php`
+  - `firestore-simple.rules`
+  - `games/gamess.html`
+  - `index.html`
+  - `js/firebase-config.js`
+  - `pages/assignment-tracker-firebase.js`
+  - `pages/assignment-tracker.html`
+  - `pages/assistant/assistant.html`
+  - `pages/ats-score-checker/ats-score-checker.html`
+  - `pages/cgpa-calculator.html`
+  - `pages/contact.html`
+  - `pages/dashboard.html`
+  - `pages/gallery.html`
+  - `pages/infrastructure.html`
+  - `pages/performance-analytics-firebase.js`
+  - `pages/performance-analytics.html`
+  - `pages/placement-updates.html`
+  - `pages/product-list.html`
+  - `pages/profile.html`
+  - `pages/scholarship.html`
+  - `pages/summary/summary.html`
+  - `pages/syllabus/syllabus.html`
+- **Labels:** `gssoc25`, `feature`, `level 3`
+- **Merged By:** [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE)
+- **Merged At:** 2025-10-05 15:38:41
+- **Lines Updated:** 1103
+- **Commits:** 23
+- **PR Link:** [PR #460](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/460)
+
+---
 
 ### [#459  New feature for tracking academic assignments and deadlines](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/459)
 
@@ -3198,7 +3261,7 @@ Reverts VAIBHAVBABELE/vaibhavbabele.github.io#321
 
 - **Author:** [@vaishaligoyal05](https://github.com/vaishaligoyal05)
 - **Description:**  
-## 🔖 PR Title: Added multilingual feature across all the ...
+## ���� PR Title: Added multilingual feature across all the ...
 - **Files Changed (13):**
     - `games/gamess.html`
   - `index.css`
