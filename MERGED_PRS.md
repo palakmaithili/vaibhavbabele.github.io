@@ -2,7 +2,7 @@
 
 This document lists all merged PRs with details: author, title, description (max 10 words), files changed, labels, who merged, merge timestamp, number of lines updated, number of commits, and PR link.
 
-*Last updated: 2025-10-14*
+*Last updated: 2025-10-15*
 
 | # | Title | Author | Description | Files Changed | Labels | Merged By | Merged At | Lines Updated | Commits | PR Link |
 |---|-------|--------|-------------|--------------|--------|-----------|-----------|--------------|---------|---------|
@@ -19,7 +19,7 @@ This document lists all merged PRs with details: author, title, description (max
 | [#333](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/333) | Backend for quiz | [@shoaib2000857](https://github.com/shoaib2000857) | ## 🔖 PR Title: <!-- A clear and concise title ... | 1 | gssoc25, backend, feature, level 2 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-28 | 342 | 1 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/333) |
 | [#410](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/410) | Fix/footer | [@ManabBiswas](https://github.com/ManabBiswas) | ## 🔖 PR Title: fix the footer and team section ... | 35 | enhancement, OSCI25, intermediate | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-09-07 | 6230 | 21 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/410) |
 | [#415](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/415) | Redesigned the papers page to match the notes page | [@pavigupta21](https://github.com/pavigupta21) | ## 🔖 PR Title: Redesign Papers Page Layout to Match ... | 2 | enhancement, gssoc25, level 2 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-09-06 | 1147 | 2 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/415) |
-| [#407](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/407) | Add Daily Motivation Quote widget with dark/light mode support | [@YogitaSharma253](https://github.com/YogitaSharma253) | ## �� PR Title: Add Daily Motivation Quote widget with ... | 3 | enhancement, OSCI25, intermediate | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-09-05 | 164 | 4 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/407) |
+| [#407](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/407) | Add Daily Motivation Quote widget with dark/light mode support | [@YogitaSharma253](https://github.com/YogitaSharma253) | ## 🔖 PR Title: Add Daily Motivation Quote widget with ... | 3 | enhancement, OSCI25, intermediate | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-09-05 | 164 | 4 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/407) |
 | [#394](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/394) | Redesigned landing page with new layout | [@Asmit-06](https://github.com/Asmit-06) | # 🔖 PR Title: - Complete redesigning of Nitra Mitra ... | 2 | enhancement, OSCI25, intermediate | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-09-03 | 497 | 2 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/394) |
 | [#390](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/390) | feat: Improve Inconsistent Preview/Download button layout in Subject … | [@MehakGo](https://github.com/MehakGo) | # Improve Inconsistent Preview/Download Button Layout in Subject Notes Page ... | 2 | bug, OSCI25, Easy | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-09-03 | 1016 | 1 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/390) |
 | [#385](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/385) | Add Resume ATS Score Checker feature with upload, scoring, and suggestions | [@Harsh-vardhan-sahu](https://github.com/Harsh-vardhan-sahu) | ## 📄 Description: This PR introduces a **Resume ATS Score ... | 7 | gssoc25, feature, level 3 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-09-02 | 902 | 6 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/385) |
@@ -62,7 +62,7 @@ This document lists all merged PRs with details: author, title, description (max
 | [#247](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/247) | Revert "Fixed resource page link and CSS path issue (#238)" | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | This reverts commit 06ad052f43bebb0dc288fda72b8f876183f75b05. ## 🔖 PR Title: <!-- A ... | 0 |  | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-13 | 0 | 1 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/247) |
 | [#232](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/232) | Readme update | [@Sejal-collection](https://github.com/Sejal-collection) | # 🔖 PR Title: Project Structure Refactor & README Enhancement ... | 40 | documentation, gssoc25, level 1 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-10 | 5191 | 2 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/232) |
 | [#238](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/238) | Fixed resource page link and CSS path issue | [@Sushilnautiyal07](https://github.com/Sushilnautiyal07) | ## 🔖 PR Title: Fixed resource page link and CSS ... | 30 | enhancement, gssoc25, level 2 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-11 | 737 | 1 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/238) |
-| [#216](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/216) | Added certificate styling and made it responsive | [@divyaHAVES00256](https://github.com/divyaHAVES00256) | ## ���� PR Title: <!-- "Fixed certificate page UI/UX" --> ... | 4 | enhancement, gssoc25, level 2 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-03 | 285 | 1 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/216) |
+| [#216](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/216) | Added certificate styling and made it responsive | [@divyaHAVES00256](https://github.com/divyaHAVES00256) | ## 🔖 PR Title: <!-- "Fixed certificate page UI/UX" --> ... | 4 | enhancement, gssoc25, level 2 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-03 | 285 | 1 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/216) |
 | [#219](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/219) | Corrected hover zoom issue and title overlap on all cards | [@kunnal-singhh](https://github.com/kunnal-singhh) | ## 🔖 PR Title: Fixed AI summarizer card rendering, card ... | 2 | bug, gssoc25, level 1 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-08 | 12 | 5 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/219) |
 | [#202](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/202) | added cgpa/sgpa calculator page and included infrastructure page  | [@vaishaligoyal05](https://github.com/vaishaligoyal05) | ## 🔖 PR Title: Added SGPA/CGPA Calculator Page and adjusted ... | 5 | gssoc25, feature, level 3 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-07-31 | 726 | 1 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/202) |
 | [#218](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/218) | Fix: Updated footer styling for better UI and responsiveness | [@kunnal-singhh](https://github.com/kunnal-singhh) | ## 🔖 PR Title: Improved Footer Design for NITRA MITRA ... | 7 | enhancement, gssoc25, level 2 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-04 | 151 | 2 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/218) |
@@ -706,7 +706,7 @@ Pull Request Summary: Title: Fix Firebase Index Requirements and User ...
 
 - **Author:** [@YogitaSharma253](https://github.com/YogitaSharma253)
 - **Description:**  
-## �� PR Title: Add Daily Motivation Quote widget with ...
+## 🔖 PR Title: Add Daily Motivation Quote widget with ...
 - **Files Changed (3):**
     - `index.css`
   - `index.html`
@@ -3538,7 +3538,7 @@ This reverts commit 06ad052f43bebb0dc288fda72b8f876183f75b05. ## 🔖 PR Title: 
 
 - **Author:** [@divyaHAVES00256](https://github.com/divyaHAVES00256)
 - **Description:**  
-## ���� PR Title: <!-- "Fixed certificate page UI/UX" --> ...
+## 🔖 PR Title: <!-- "Fixed certificate page UI/UX" --> ...
 - **Files Changed (4):**
     - `certificate.css`
   - `certificate.html`
