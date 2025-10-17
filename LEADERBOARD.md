@@ -1,6 +1,6 @@
 # 🏆 Contributors Leaderboard
 
-*Last updated: 2025-10-16*
+*Last updated: 2025-10-17*
 
 ## 🌸 GSSoC '25 Leaderboard
 
@@ -47,7 +47,7 @@
 | [@DileepKrishnaM](https://github.com/DileepKrishnaM) | - | 1 | 0 | 0 | 1 | 3 |
 | [@EammenShaik](https://github.com/EammenShaik) | 24mc3044@rgipt.ac.in | 1 | 0 | 0 | 1 | 3 |
 | [@Vidushi-15b](https://github.com/Vidushi-15b) | - | 1 | 0 | 0 | 1 | 3 |
-| [@abdullahlko](https://github.com/abdullahlko) | - | 1 | 0 | 0 | 1 | 3 |
+| [@abdullahlko](https://github.com/abdullahlko) | abdullahlko789@gmail.com | 1 | 0 | 0 | 1 | 3 |
 | [@madhujammm](https://github.com/madhujammm) | - | 1 | 0 | 0 | 1 | 3 |
 | [@Sanyam2511](https://github.com/Sanyam2511) | - | 1 | 0 | 0 | 1 | 3 |
 
