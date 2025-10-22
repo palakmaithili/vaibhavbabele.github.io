@@ -2,7 +2,7 @@
 
 This document lists all merged PRs with details: author, title, description (max 10 words), files changed, labels, who merged, merge timestamp, number of lines updated, number of commits, and PR link.
 
-*Last updated: 2025-10-21*
+*Last updated: 2025-10-22*
 
 | # | Title | Author | Description | Files Changed | Labels | Merged By | Merged At | Lines Updated | Commits | PR Link |
 |---|-------|--------|-------------|--------------|--------|-----------|-----------|--------------|---------|---------|
@@ -79,7 +79,7 @@ This document lists all merged PRs with details: author, title, description (max
 | [#177](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/177) | Final changes: fixed UI, accessibility, responsiveness, grammar | [@snehaburma270](https://github.com/snehaburma270) | ## 🔖 PR Title: Final Fixes: Improved UI, Responsiveness, Accessibility, ... | 2 | gssoc25, frontend, level 1 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-07-29 | 96 | 2 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/177) |
 | [#185](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/185) | Revert "Refactor: Site-wide content, structure, and code cleanup" | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | Reverts VAIBHAVBABELE/vaibhavbabele.github.io#184 | 18 |  | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-07-29 | 3493 | 1 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/185) |
 | [#184](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/184) | Refactor: Site-wide content, structure, and code cleanup | [@Shailee6464](https://github.com/Shailee6464) | ## 🔖 PR Title: <!-- A clear and concise title ... | 18 |  | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-07-29 | 3493 | 3 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/184) |
-| [#180](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/180) | feat: Implement comprehensive security improvements for Nitra Mitra platform | [@singharyan006](https://github.com/singharyan006) | # 🔖 feat: Implement comprehensive security improvements for Nitra Mitra ... | 7 | gssoc25, backend, level 2 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-07-29 | 324 | 4 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/180) |
+| [#180](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/180) | feat: Implement comprehensive security improvements for Nitra Mitra platform | [@singharyan006](https://github.com/singharyan006) | # �� feat: Implement comprehensive security improvements for Nitra Mitra ... | 7 | gssoc25, backend, level 2 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-07-29 | 324 | 4 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/180) |
 | [#151](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/151) | Pratik | [@pratiks2905](https://github.com/pratiks2905) | 🔖 PR Title: Enhance Feedback Form Validation with Robust JavaScript ... | 1 | gssoc25, frontend, level 1 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-07-27 | 49 | 3 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/151) |
 | [#147](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/147) | AI-Powered Resume Analyzer  | [@PrathmeshTatar](https://github.com/PrathmeshTatar) | ## 🔖 PR Title: **Enhancement: Integrated AI-Powered Resume Analyzer UI ... | 10 | gssoc25, backend, level 3 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-07-28 | 692 | 2 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/147) |
 | [#155](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/155) | Revert "Feature/about us restructure and enhancement across home page" | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | Reverts VAIBHAVBABELE/vaibhavbabele.github.io#153 | 3 |  | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-07-27 | 589 | 1 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/155) |
@@ -100,7 +100,7 @@ This document lists all merged PRs with details: author, title, description (max
 | [#106](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/106) | Optimized the tables for small screens | [@devajuw](https://github.com/devajuw) | ## Optimized the tables for small screens --- ## 📄 ... | 4 | enhancement, gssoc25, frontend, level 2 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-07-26 | 1147 | 1 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/106) |
 | [#99](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/99) | Enhancement/update certificate | [@Nikita-Mishraa](https://github.com/Nikita-Mishraa) | ## 🔖 PR Title: Certificate Update --- ## 📄 Description: ... | 2 | enhancement, gssoc25, frontend, level 1 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-07-25 | 46 | 24 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/99) |
 | [#100](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/100) | Modified Configs and setup for backend | [@shoaib2000857](https://github.com/shoaib2000857) | ## 🔖 PR Title: <!-- A clear and concise title ... | 3 | bug, gssoc25, backend, level 2 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-07-25 | 31 | 13 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/100) |
-| [#89](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/89) | Fixed Games Page 404 Error \| Added 4 Functional Games \| Enhanced Routing and UI Consistency | [@sabaaa01](https://github.com/sabaaa01) | ## 🔖 PR Title: Fixed Games Page 404 Error \| ... | 10 | enhancement, gssoc25, level 2 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-07-25 | 1338 | 4 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/89) |
+| [#89](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/89) | Fixed Games Page 404 Error \| Added 4 Functional Games \| Enhanced Routing and UI Consistency | [@sabaaa01](https://github.com/sabaaa01) | ## �� PR Title: Fixed Games Page 404 Error \| ... | 10 | enhancement, gssoc25, level 2 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-07-25 | 1338 | 4 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/89) |
 | [#94](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/94) | Created a backend and basic testing page for the notes summary system | [@shoaib2000857](https://github.com/shoaib2000857) | ## 🔖 PR Title: Created a backend and basic testing ... | 5 | gssoc25, backend, level 2 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-07-25 | 1012 | 9 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/94) |
 | [#91](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/91) | Update styles and content across multiple files | [@Tanvi0710](https://github.com/Tanvi0710) | ## 🔖 PR Title: Updated styles and multiple pages --- ... | 8 | enhancement, gssoc25, frontend, level 2 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-07-25 | 544 | 1 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/91) |
 | [#80](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/80) | Documentation Change - README.md Update | [@Nikita-Mishraa](https://github.com/Nikita-Mishraa) | ## 🔖 PR Title: Updated README.md --- ## 📄 Description: ... | 9 | documentation, gssoc25, level 2 | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-07-25 | 44 | 19 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/80) |
@@ -3909,7 +3909,7 @@ Reverts VAIBHAVBABELE/vaibhavbabele.github.io#184
 
 - **Author:** [@singharyan006](https://github.com/singharyan006)
 - **Description:**  
-# 🔖 feat: Implement comprehensive security improvements for Nitra Mitra ...
+# �� feat: Implement comprehensive security improvements for Nitra Mitra ...
 - **Files Changed (7):**
     - `.htaccess`
   - `.htaccess.backup`
@@ -4332,7 +4332,7 @@ This PR implements comprehensive content updates and structural enhancements acr
 
 - **Author:** [@sabaaa01](https://github.com/sabaaa01)
 - **Description:**  
-## 🔖 PR Title: Fixed Games Page 404 Error | ...
+## �� PR Title: Fixed Games Page 404 Error | ...
 - **Files Changed (10):**
     - `games/gamess.html`
   - `games/hangman.html`
