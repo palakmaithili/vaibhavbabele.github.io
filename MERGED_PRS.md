@@ -2,7 +2,7 @@
 
 This document lists all merged PRs with details: author, title, description (max 10 words), files changed, labels, who merged, merge timestamp, number of lines updated, number of commits, and PR link.
 
-*Last updated: 2025-10-27*
+*Last updated: 2025-10-28*
 
 | # | Title | Author | Description | Files Changed | Labels | Merged By | Merged At | Lines Updated | Commits | PR Link |
 |---|-------|--------|-------------|--------------|--------|-----------|-----------|--------------|---------|---------|
@@ -34,7 +34,7 @@ This document lists all merged PRs with details: author, title, description (max
 | [#301](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/301) | Fix: Responsiveness of website sections on smaller screens | [@roniitpodder](https://github.com/roniitpodder) | ## 🔖 PR Title: Fixed Responsiveness of website sections on ... | 3 | bug, OSCI25, Easy | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-24 | 8 | 1 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/301) |
 | [#332](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/332) | Revert "Added: TimeLimit/ProgressBar/UIFix" | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | Reverts VAIBHAVBABELE/vaibhavbabele.github.io#321 | 3 |  | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-28 | 504 | 1 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/332) |
 | [#294](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/294) | fix: improve dark mode accessibility for calculator tabs and results | [@kanishka1804](https://github.com/kanishka1804) | ## 🔖 PR Title: <!-- A clear and concise title ... | 1 | bug, OSCI25, Easy | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-24 | 58 | 1 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/294) |
-| [#321](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/321) | Added: TimeLimit/ProgressBar/UIFix | [@Adii0906](https://github.com/Adii0906) | ## 🔖 PR Title: Added: 15-question dynamic quiz with timer ... | 3 |  | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-27 | 504 | 3 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/321) |
+| [#321](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/321) | Added: TimeLimit/ProgressBar/UIFix | [@Adii0906](https://github.com/Adii0906) | ## ��� PR Title: Added: 15-question dynamic quiz with timer ... | 3 |  | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-27 | 504 | 3 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/321) |
 | [#308](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/308) | Fix: Align 'Total Visitors' section and counter badge for visual consistency | [@ishanibasu](https://github.com/ishanibasu) | ## 🔖 PR Title: Fix: Aligned 'Total Visitors' section and ... | 60 | enhancement, OSCI25, hard | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-25 | 458 | 3 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/308) |
 | [#328](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/328) | Updated terms final[OSCI'25] | [@ShatadruDhar](https://github.com/ShatadruDhar) | 🔖 PR Title: Fixed missing navigation bar on Terms and ... | 3 | frontend, OSCI25, Easy | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-27 | 199 | 3 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/328) |
 | [#324](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/324) | feat/Navbar and back to top button updated | [@ManabBiswas](https://github.com/ManabBiswas) | ## 🔖 PR Title: <!-- A clear and concise title ... | 69 | feature, OSCI25, intermediate | [@VAIBHAVBABELE](https://github.com/VAIBHAVBABELE) | 2025-08-26 | 1594 | 1 | [PR Link](https://github.com/VAIBHAVBABELE/vaibhavbabele.github.io/pull/324) |
@@ -1053,7 +1053,7 @@ Reverts VAIBHAVBABELE/vaibhavbabele.github.io#321
 
 - **Author:** [@Adii0906](https://github.com/Adii0906)
 - **Description:**  
-## 🔖 PR Title: Added: 15-question dynamic quiz with timer ...
+## ��� PR Title: Added: 15-question dynamic quiz with timer ...
 - **Files Changed (3):**
     - `games/games.css`
   - `games/gamess.js`
